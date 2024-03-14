@@ -11,7 +11,7 @@ Tato aplikace umožňuje vytvářet, upravovat a mazat záznamy v databázi. Obs
 1. Naklonujte si tento repozitář do svého lokálního prostředí.
 2. Otevřete projekt v IDE (např. Visual Studio).
 3. Ujistěte se, že máte nainstalované potřebné balíčky a prostředí pro .NET development.
-4. Spusťte aplikaci pomocí příkazu `dotnet run` ve složce projektu.
+
 
 ## Použití
 
